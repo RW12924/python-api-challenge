@@ -1,2 +1,6 @@
 # Adding config.py file.
 api_keys.py
+
+WeatherPy/.ipynb_checkpoints/
+.virtual_documents/
+Starter_Code/
